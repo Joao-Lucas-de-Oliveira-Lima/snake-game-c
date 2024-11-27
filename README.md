@@ -1,12 +1,6 @@
 # About the game
 This project is a Snake game implemented in C as a final project for the **FUP** (Fundamentals of Programming) course. It uses Windows libraries to manage the snake's movement and the customization of the terminal's color. The game uses specific functions from the `windows.h` and `conio.h` libraries for cursor positioning and screen updates.
 
-![Game start menu](/images/menu.gif)
-
----
-
-![Snake devouring apples](/images/full_gameplay.gif)
-
 ## Prerequisites
 - Windows OS or a Virtual Machine running Windows
 - [MinGW](https://sourceforge.net/projects/mingw/)
@@ -21,3 +15,9 @@ gcc main.c -o main.exe
 ```bash
 .\main.exe
 ```
+## Game visuals
+![Game start menu](/images/menu.gif)
+
+---
+
+![Snake devouring apples](/images/full_gameplay.gif)
