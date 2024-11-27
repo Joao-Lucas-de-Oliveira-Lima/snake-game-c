@@ -5,7 +5,7 @@ This project is a Snake game implemented in C as a final project for the **FUP**
 - Windows OS or a Virtual Machine running Windows
 - [MinGW](https://sourceforge.net/projects/mingw/)
 
-## Installation
+## How to Play
 Open the terminal in the root directory of the project and follow these steps:
 1. To compile the project and generate the executable:
 ```bash
