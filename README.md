@@ -13,7 +13,7 @@ gcc main.c -o main.exe
 ```
 2. To run the game:
 ```bash
-.\main.exe
+main.exe
 ```
 ## Game visuals
 ![Game start menu](/images/menu.gif)
