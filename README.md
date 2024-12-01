@@ -15,9 +15,5 @@ gcc main.c -o main.exe
 ```bash
 main.exe
 ```
-## Game visuals
-![Game start menu](/images/menu.gif)
-
----
-
-![Snake devouring apples](/images/full_gameplay.gif)
+| ![Game start menu](/images/menu.gif) | ![Snake devouring apples](/images/full_gameplay.gif) |
+|--------------------------------------|-----------------------------------------------------|
